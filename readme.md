@@ -1,5 +1,7 @@
 # Learn Go with TDD
 
+next: Pointers & errors
+
 Code from the book [Learn Go with tests](https://quii.gitbook.io/learn-go-with-tests/)
 
 * [Em portugues](https://larien.gitbook.io/aprenda-go-com-testes/)
