@@ -26,3 +26,4 @@ Code from the book [Learn Go with tests](https://quii.gitbook.io/learn-go-with-t
     * Structs
     * Metodos
     * Interfaces
+* pointers
