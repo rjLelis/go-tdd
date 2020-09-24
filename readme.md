@@ -1,6 +1,6 @@
 # Learn Go with TDD
 
-next: Pointers & errors
+next: [maps](https://quii.gitbook.io/learn-go-with-tests/go-fundamentals/maps)
 
 Code from the book [Learn Go with tests](https://quii.gitbook.io/learn-go-with-tests/)
 
@@ -27,3 +27,6 @@ Code from the book [Learn Go with tests](https://quii.gitbook.io/learn-go-with-t
     * Metodos
     * Interfaces
 * pointers
+    * Pointers
+    * Errors
+    * nil
