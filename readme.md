@@ -1,6 +1,6 @@
 # Learn Go with TDD
 
-next: [maps](https://quii.gitbook.io/learn-go-with-tests/go-fundamentals/maps)
+next: [dependency injection](https://quii.gitbook.io/learn-go-with-tests/go-fundamentals/dependency-injection)
 
 Code from the book [Learn Go with tests](https://quii.gitbook.io/learn-go-with-tests/)
 
@@ -30,3 +30,5 @@ Code from the book [Learn Go with tests](https://quii.gitbook.io/learn-go-with-t
     * Pointers
     * Errors
     * nil
+* maps
+    * map operations
