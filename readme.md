@@ -1,6 +1,6 @@
 # Learn Go with TDD
 
-next: [dependency injection](https://quii.gitbook.io/learn-go-with-tests/go-fundamentals/dependency-injection)
+next: [mocking](https://quii.gitbook.io/learn-go-with-tests/go-fundamentals/mocking)
 
 Code from the book [Learn Go with tests](https://quii.gitbook.io/learn-go-with-tests/)
 
@@ -8,27 +8,29 @@ Code from the book [Learn Go with tests](https://quii.gitbook.io/learn-go-with-t
 
 ## Chapters
 
-* ola
+* [ola](./ola)
     * Pacote `testing`
     * Variáveis e constantes
     * Funções
     * Estruturas de controle(if, else, switch)
-* inteiros
+* [inteiros](./inteiros)
     * Tipo de dados
-* iteracao
+* [iteracao](./iteracao)
     * Estrutura de repetição
     * Pacote `strings`
-* arrays
+* [arrays](./arrays)
     * Listas
     * Slices
     * Pacote `reflect`
-* structs
+* [structs](./structs)
     * Structs
     * Metodos
     * Interfaces
-* pointers
+* [pointers](./pointers)
     * Pointers
     * Errors
     * nil
-* maps
+* [maps](./maps)
     * map operations
+* [Dependency injection](./dpi)
+    * dependency injection
