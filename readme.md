@@ -1,6 +1,6 @@
 # Learn Go with TDD
 
-next: [mocking](https://quii.gitbook.io/learn-go-with-tests/go-fundamentals/mocking)
+next: [select](https://quii.gitbook.io/learn-go-with-tests/go-fundamentals/select)
 
 Code from the book [Learn Go with tests](https://quii.gitbook.io/learn-go-with-tests/)
 
@@ -34,3 +34,9 @@ Code from the book [Learn Go with tests](https://quii.gitbook.io/learn-go-with-t
     * map operations
 * [Dependency injection](./dpi)
     * dependency injection
+* [Mocking](./mocking)
+    * mocking
+* [Concurrency](./concurrency)
+    * goroutines
+    * channels
+    * anonymous functions
